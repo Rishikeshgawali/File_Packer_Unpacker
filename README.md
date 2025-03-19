@@ -38,7 +38,7 @@
 1. Repository:
 
     ```bash
-    git clone https://github.com/your-username/marvellous-packer-unpacker.git
+    https://github.com/Rishikeshgawali/File_Packer_Unpacker
     ```
 
 2. Navigate to the project directory and open it in your preferred Java IDE.
@@ -93,4 +93,4 @@
 
 ## Author
 
-- **RISHIKESH GAWALI**
+- **RISHIKESH BHARAT GAWALI**
